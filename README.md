@@ -1,1 +1,1 @@
-# Sequencia-Numerica
+Sequencia Numerica de Impares e Pares
